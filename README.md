@@ -11,6 +11,6 @@
     
 <br>
 <p align=center">i don't mind ships!! people who take
-    ships too seriously need to get a job...</p>
+    <br>ships too seriously need to get a job...</p>
 <p align="center"><b>i can be john AND jake if i want to! now scram.
 </p> 
