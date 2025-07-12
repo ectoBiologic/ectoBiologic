@@ -4,7 +4,6 @@
 <div align="center">
 <div style="position: relative; text-align: center;">
     <a href="https://ectobiologic.straw.page/ecto"> 1i</a> /<a href="https://discordapp.com/users/796518029260619786"> 2i</a> /<a href="https://guns4us.atabook.org/"> 3i</a></p>
-    <br>
 
 ![](https://files.catbox.moe/wf9g0w.png)
 
