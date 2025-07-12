@@ -12,5 +12,3 @@
 <p align="center"><b>sniperspy shippers please get OFF me,</b><br>
   nothing personal. (overly personal)
 </p> 
-
-[![IMAGE ALT TEXT HERE](https://files.catbox.moe/rxm7hb.jpg)](https://www.youtube.com/watch?v=IqxsotEmj3w)
