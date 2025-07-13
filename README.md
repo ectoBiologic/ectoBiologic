@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <div style="position: relative; text-align: center;">
-    <a href="https://ectobiologic.straw.page/ecto"> straw</a> /<a href="https://discordapp.com/users/796518029260619786"> disc</a> /<a href="https://guns4us.atabook.org/"> book</a></p>
+    <a href="https://ectobiologic.straw.page/ecto"> straw</a> /<a href="https://discordapp.com/users/796518029260619786"> disc</a> /<a href="https://ectobiology.atabook.org"> book</a></p>
 
 <p align="center"><b>i can be john AND jake<br>if i want to! now scram.
 </p> 
