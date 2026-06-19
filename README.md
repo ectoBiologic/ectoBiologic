@@ -10,4 +10,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iwcx3cvnofnak9rh1ebixrfbz&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=420606&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align=center">chud chud talk to me. snoree. whateverr</p>
+<p align=center">i'm working on the damn strawpage OKAY!!!! chud chud talk to me. snoree. whateverr</p>
