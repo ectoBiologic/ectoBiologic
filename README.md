@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <div style="position: relative; text-align: center;">
-    <a href="https://discordapp.com/users/796518029260619786"> disc</a> /<a href="https://ectobiology.atabook.org"> book</a></p>
+    <a href="https://discordapp.com/users/796518029260619786"> disc</a></p>
 
 <img src="https://files.catbox.moe/wlgp63.png" width="100"/> <img src="https://files.catbox.moe/0u0wl6.png" width="100"/>
 <br>
